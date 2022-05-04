@@ -23,7 +23,6 @@ The article explains how to use Bootstrap 5 by building a landing page and also 
 - `Home`
 - `Features`
 - `Pricing`
-- `Contact Us`
 - `Footer`
 
 <br />
