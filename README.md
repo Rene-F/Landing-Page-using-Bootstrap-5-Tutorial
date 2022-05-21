@@ -4,8 +4,8 @@ All the sample code for the written blog article [Everything important about Boo
 
 The article explains how to use Bootstrap 5 by building a landing page and also a dashboard layout. The website will be built with Bootstrap 5 using HTML and CSS.
 
-- [Bootstrap 5 Landing Page](https://#) - Preview
-- [Bootstrap 5 Dashboard Layout](https://#) - Preview
+- [Bootstrap 5 Landing Page](https://blog.appseed.us/bootstrap-for-beginners-landing-page/) - Preview
+- [Bootstrap 5 Dashboard Layout](https://blog.appseed.us/bootstrap-for-beginners-dashboard-layout/) - Preview
 
 <br />
 
@@ -34,4 +34,4 @@ Bootstrap is the most popular CSS Framework for developing responsive and mobile
 <br />
 
 --- 
-[Everything important about Bootstrap 5](https://#) - Provided by `Rene-F`, Provided to `AppSeed`.
+[Everything important about Bootstrap 5](https://blog.appseed.us/bootstrap-for-beginners-with-examples/) - Provided by `Rene-F`, Provided to `AppSeed`.
